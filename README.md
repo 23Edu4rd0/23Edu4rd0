@@ -43,6 +43,14 @@ Tenho projetos práticos desenvolvidos em **Python**, **MySQL**, e **Análise de
 
 ---
 
+
+## 🐍 Minhas Contribuições
+<div align="center">
+  <img src="https://github.com/23Edu4rd0/23Edu4rd0/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
+
 ⚡ **Fato curioso:**  
 Aceito doações de gatos ou cachorros 🐱🐶
 
