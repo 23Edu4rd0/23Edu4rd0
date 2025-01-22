@@ -7,11 +7,12 @@ Tenho projetos práticos desenvolvidos em **Python**, **MySQL**, e **Análise de
 ---
 
 ## 🚀 Tecnologias & Ferramentas  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</div>
 ---
 
 ## 📈 Minhas Estatísticas  
@@ -36,8 +37,6 @@ Entre em contato comigo:
 </a>
 
 ---
-
-r minhas habilidades na área de dados e contribuir para soluções que impactem positivamente negócios e pessoas.
 
 ⚡ **Fato curioso:**  
 Aceito doações de gatos ou cachorros
