@@ -12,7 +12,7 @@ Eae, me chamo Eduardo
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=23Edu4rd0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-[Snake animation](https://github.com/23Edu4rd0/23Edu4rd0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 <br>
 <a target="_blank" href="mailto:23eduardoviana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://www.linkedin.com/in/eduardovianadev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
