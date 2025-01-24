@@ -40,13 +40,3 @@ Tenho projetos práticos desenvolvidos em **Python**, **MySQL**, e **Análise de
   </a>
 
 </div>
-
----
-
-
-⚡ **Fato curioso:**  
-Aceito doações de gatos ou cachorros 🐱🐶
-
----
-
-### 💻 Veja meus projetos abaixo e fique à vontade para contribuir! 😄
