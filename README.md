@@ -1,8 +1,12 @@
-# 👋 Olá, eu sou Eduardo!  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-Sou apaixonado por tecnologia, dados e desenvolvimento de sistemas. Atualmente, estou me especializando em **Análise e Desenvolvimento de Sistemas**, além de expandir meus conhecimentos em **Python**, **SQL**, e ferramentas de visualização de dados como Power BI. 
+<h1 align="center">Hi there! I'm Eduardo Viana Chaves</h1>
 
-Tenho projetos práticos desenvolvidos em **Python**, **MySQL**, e **Análise de Dados**, e estou sempre em busca de aprender mais e contribuir com a comunidade!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;Data+Analyst+from+Divinópolis,+MG;Passionate+about+Python,+SQL+and+Technology!" />
+  </a>
+</p>
 
 ---
 
@@ -21,22 +25,35 @@ Tenho projetos práticos desenvolvidos em **Python**, **MySQL**, e **Análise de
 
 ## 📈 Minhas Estatísticas  
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=23Edu4rd0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <table>
+    <tr>
+      <td>
+        <img loading="lazy" height="180em" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=23Edu4rd0&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfbf&sideLabels=00bfbf" />
+      </td>
+      <td>
+          <img loading="lazy" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=23Edu4rd0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img loading="lazy" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&layout=compact&langs_count=7&theme=dracula"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
+
 
 ---
 
 ## 📫 Contato  
 <div align="center">
-  <a target="_blank" href="mailto:23eduardoviana@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:23eduardoviana@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>  
-  <a target="_blank" href="https://www.linkedin.com/in/eduardovianadev/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/eduardovianadev/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  <a target="_blank" href="https://x.com/Edu4rdo_23" target="_blank">
+  <a target="_blank" href="https://x.com/Edu4rdo_23">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-
 </div>
