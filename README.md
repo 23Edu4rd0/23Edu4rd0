@@ -23,15 +23,28 @@
 
 ## 📊 Stats  
 <div align="center">
-   <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&langs_count=6&layout=donut-vertical&bg_color=000000&text_color=FFFFFF&title_color=003366&border_color=003366&card_width=232">
+   <img align="right" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&langs_count=6&layout=donut-vertical&bg_color=000000&text_color=FFFFFF&title_color=b22e63&border_color=003366&card_width=232">
    <a href="https://github-readme-stats.vercel.app/api?username=23Edu4rd0&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=000000&text_color=FFFFFF&title_color=003366&border_color=003366">
        <img width="46%" src="https://github-readme-stats.vercel.app/api?username=23Edu4rd0&show_icons=true&count_private=true&hide_title=true&hide=prs&bg_color=000000&text_color=FFFFFF&title_color=003366&border_color=003366">
    </a>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=23Edu4rd0&theme=radical&background=000000&ring=003366&fire=003366&currStreakNum=003366&sideNums=003366&border=003366">
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=23Edu4rd0&theme=dark&background=000000&ring=003366&fire=003366&currStreakNum=00bfff&sideNums=00bfff&border=003366">
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
