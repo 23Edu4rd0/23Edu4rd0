@@ -23,22 +23,24 @@
 
 ---
 
-## 📈 Minhas Estatísticas  
+## 📊 Stats
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img loading="lazy" height="180em" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=23Edu4rd0&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00bfbf&sideLabels=00bfbf" />
-      </td>
-      <td>
-          <img loading="lazy" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=23Edu4rd0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </td>
-      <td>
-        <img loading="lazy" height="180em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&layout=compact&langs_count=7&theme=dracula"/>
-      </td>
-    </tr>
-  </table>
+  
+  <img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&langs_count=6&layout=donut-vertical&bg_color=000000&text_color=FFFFFF&title_color=FFA4C7&border_color=FFA4C7&card_width=235">
+
+  <a href="https://awesome-github-stats.azurewebsites.net/user-stats/23Edu4rd0?cardType=github&theme=tokyonight">
+    <img width="50%" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/23Edu4rd0?cardType=github&theme=tokyonight&preferLogin=true&background=000000&text_color=FFFFFF">
+  </a>
+
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=23Edu4rd0&theme=omni&background=000000&border=FFA4C7&ring=FFA4C7&fire=FFA4C7&currStreakNum=FF4B84&sideNums=FF4B84">
+    </a>
+  </p>
+
 </div>
+
+
 
 ---
 
