@@ -26,7 +26,7 @@
 ## 📊 Stats
 <div align="center">
   
-  <img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&langs_count=6&layout=donut-vertical&bg_color=000000&text_color=FFFFFF&title_color=FFA4C7&border_color=FFA4C7&card_width=230">
+  <img align="right" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23Edu4rd0&langs_count=6&layout=donut-vertical&bg_color=000000&text_color=FFFFFF&title_color=FFA4C7&border_color=FFA4C7&card_width=230">
 
   <a href="https://awesome-github-stats.azurewebsites.net/user-stats/23Edu4rd0?cardType=github&theme=tokyonight">
     <img width="50%" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/23Edu4rd0?cardType=github&theme=tokyonight&preferLogin=true&background=000000&text_color=FFFFFF">
