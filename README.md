@@ -29,7 +29,8 @@ Here are some of the technologies I work with and am currently learning:
 ## 📩 Let's Connect?  
 If you want to follow my journey or exchange ideas, feel free to contact me:
 
-<a href="mailto:23eduardoviana@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" style="width: 50px; height: 50px;"></a> &nbsp; 
-<a href="https://www.linkedin.com/in/eduardovianadev/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width: 50px; height: 50px;"></a>
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:23eduardoviana@gmail.com) &nbsp; 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eduardovianadev/)
+
 
 
